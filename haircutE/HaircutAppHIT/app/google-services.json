@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556284856159",
+    "firebase_url": "https://finalprojecthit-9bea1-default-rtdb.firebaseio.com",
+    "project_id": "finalprojecthit-9bea1",
+    "storage_bucket": "finalprojecthit-9bea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556284856159:android:18d335250363a493b0d8ea",
+        "android_client_info": {
+          "package_name": "com.example.haircutapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ISloCLf1HoKgIhFfTVtFaRZvj_e82Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

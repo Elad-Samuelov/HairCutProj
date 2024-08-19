@@ -1,0 +1,6 @@
+<!-- rectangle_blue_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#2196F3"/> <!-- Change the color to a brighter shade of blue -->
+    <corners android:radius="8dp"/> <!-- Adjust the radius as needed for rounded corners -->
+</shape>
